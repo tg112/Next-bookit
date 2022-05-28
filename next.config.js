@@ -8,5 +8,8 @@ module.exports = nextConfig
 module.exports = {
   env: {
     DB_LOCAL_URI: 'mongodb://localhost:27017/bookit'
+  },
+  images: {
+    domains: ['0.muscache.com']
   }
 }
