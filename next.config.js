@@ -10,6 +10,6 @@ module.exports = {
     DB_LOCAL_URI: 'mongodb://localhost:27017/bookit'
   },
   images: {
-    domains: ['0.muscache.com']
+    domains: ['res.cloudinary.com']
   }
 }
